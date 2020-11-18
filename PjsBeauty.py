@@ -1,6 +1,5 @@
 import requests #IMPORT PyLIBRARY
 import jsbeautifier
-import os
 
 url = input("Enter URL : ")
 url_ = str(url)
